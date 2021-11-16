@@ -46,7 +46,7 @@ li {
 li:last-child{
   border-bottom: none;  
 }
-h1 {
+/*h1 {
   color: blue;
 }
 p {
@@ -57,4 +57,4 @@ p {
 }
 @media screen and (max-width: 480px) {
   
-}
+} */
