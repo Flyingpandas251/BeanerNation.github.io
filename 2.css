@@ -5,9 +5,33 @@
 html, body {
   height: 100%
 }
-.container {
+.home {
   height: 100%;
-  background: url(horimiya-background.jpg);
+  background: url(trip.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.al {
+  height: 100%;
+  background: url(space.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.ju {
+  height: 100%;
+  background: url(abstract-blue.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.du {
+  height: 100%;
+  background: url(nerds.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
