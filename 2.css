@@ -1,0 +1,40 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
+html, body {
+  height: 100%
+}
+.container {
+  height: 100%;
+  background: url(horimiya-background.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.container span {
+  color: #fff;
+  font-size: 3vw;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  text-transform: uppercase;
+  background: rgba(0, 0, 0, 0.5);
+  padding: 10px;
+  position: absolute;
+  top: 0%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+h1 {
+  color: blue;
+}
+p {
+  color: red;
+}
+.title {
+  text-align: center;
+}
+@media screen and (max-width: 480px) {
+  
+}
